@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DTC2024-Project01</string>
+    <string name="main_point_text">퀴즈와 함께 다가가는</string>
+    <string name="main_title_text">통일 길라잡이</string>
+    <string name="start_button_text">시작하기</string>
+    <string name="dev_name">DTC Unit. X 통일교육주간</string>
+    <string name="main_content_text">통일과 남북 관계에 대한 퀴즈를 해결하고 \n평화통일에 한발짝 더 다가가보자!</string>
+</resources>
